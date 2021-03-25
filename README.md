@@ -33,13 +33,13 @@
 <p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujeet3099&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujeet3099&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
 
 ##  🤝🏻 &nbsp;Connect with Me
-
+<p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sujeet-kumar-b75b971a0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/Sujeet3099"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sujeetk3099@gmail.com?subject=Hello%20Sujeet,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
