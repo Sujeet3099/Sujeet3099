@@ -28,7 +28,6 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
   ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![]
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,8 +43,10 @@
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujeet3099&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujeet3099&theme=radical&layout=compact&exclude_lang=java+r" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujeet3099&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujeet3099&theme=radical&layout=compact&exclude_lang=java+r" /> -->
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sujeet3099&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Sujeet's github stats"/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeet3099&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Sujeet's github stats"/>
 </a>
 </p>
 
