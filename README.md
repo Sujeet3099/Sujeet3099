@@ -1,14 +1,14 @@
-### Hi there 👋
 
-## I'm Sujeet.
+<p align="center"><h1 align="center">  Hi there 👋 I'm Sujeet.</h1></p>
 
-### 💻 &nbsp;About Me 
-
+<p align="center"><h1 align="center"> 💻 &nbsp; About Me </h1></p>
+<h3 align="center">
 - 🤔 &nbsp; Exploring new technologies and doing competetive coding.
+- </br>
 - 🎓 &nbsp; Studying Information Technology at KIIT University.
+</h3>
 
-
-### 🛠 &nbsp;Tech Stack
+## <p align="center"><h1 align="center"> 🛠 &nbsp; Tech Stack</h1></p>
 
 - 🌐 &nbsp;
   ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,15 +40,15 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-## My Stats
+## <p align="center"><h1 align="center"> 🤝🏻 &nbsp; My Stats</h1></p>
 <p>
 <a href="https://github.com/Sujeet3099">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujeet3099&show_icons=true&theme=radical" /> -->
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujeet3099&theme=radical&layout=compact&exclude_lang=java+r" /> -->
+<!--   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Sujeet3099&show_icons=true&theme=radical" /> -->
+<!--   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujeet3099&theme=radical&layout=compact&exclude_lang=java+r" /> -->
 <!--    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sujeet3099&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Sujeet's github stats"/> -->
 <!--    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujeet3099&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Sujeet's github stats"/> -->
-  <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sujeet3099&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujeet3099&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sujeet3099&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sujeet3099&layout=compact&langs_count=8&theme=algolia"/>
   
 </a>
 </p>
